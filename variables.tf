@@ -10,7 +10,7 @@ variable "region" {
 
 variable "instance_name" {
   type    = string
-  default = "terraform-instance"
+  default = "terraform-instance2"
 }
 
 variable "bucket_name" {
